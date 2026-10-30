@@ -5,6 +5,14 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VietHoangDev1005/VietHoangDev1005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VietHoangDev1005/VietHoangDev1005/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/VietHoangDev1005/VietHoangDev1005/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=VietHoangDev1005&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
   <a href="https://github.com/VietHoangDev1005?tab=followers"><img src="https://img.shields.io/github/followers/VietHoangDev1005?label=Followers&style=flat&color=6C63FF" alt="Followers" /></a>
 </p>
@@ -79,14 +87,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VietHoangDev1005&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VietHoangDev1005/VietHoangDev1005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VietHoangDev1005/VietHoangDev1005/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/VietHoangDev1005/VietHoangDev1005/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-  </picture>
 </p>
 
 ---
